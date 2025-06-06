@@ -12,5 +12,6 @@ df = pd.DataFrame(
 #df
 
 st.write("Below is a DataFrame:", df, "Above is a dataframe.")
+st.header('My Table 1')
 st.write(1234)
 
