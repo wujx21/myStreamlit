@@ -12,4 +12,5 @@ df = pd.DataFrame(
 #df
 
 st.write("Below is a DataFrame:", df, "Above is a dataframe.")
+st.write(1234)
 
